@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/prasmussen/gdrive/cli"
-	"github.com/prasmussen/gdrive/gdrive"
-	"github.com/prasmussen/gdrive/util"
-	"github.com/prasmussen/google-api-go-client/googleapi"
+	"github.com/dzburgas/gdrive/cli"
+	"github.com/dzburgas/gdrive/gdrive"
+	"github.com/dzburgas/gdrive/util"
+	"github.com/dzburgas/google-api-go-client/googleapi"
 	"github.com/voxelbrain/goptions"
 	"os"
 )
